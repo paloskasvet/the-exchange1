@@ -1,0 +1,17 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f5d06a"></stop><stop offset="40%" stop-color="#e8b830"></stop><stop offset="100%" stop-color="#9a6f10"></stop></linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f7e08a"></stop><stop offset="100%" stop-color="#c8920a"></stop></linearGradient>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#fff0a0"></stop><stop offset="100%" stop-color="#d4a820"></stop></linearGradient>
+  </defs>
+  <ellipse cx="40" cy="68" rx="26" ry="5" fill="#0a0800" opacity="0.5"></ellipse>
+  <path d="M14 52 L66 52 L66 62 L14 62 Z" fill="url(#g1)"></path>
+  <path d="M10 38 L70 38 L66 62 L14 62 Z" fill="url(#g2)"></path>
+  <path d="M10 28 L10 38 L14 62 L14 52 Z" fill="#8a5e08"></path>
+  <path d="M70 28 L70 38 L66 62 L66 52 Z" fill="#7a5205"></path>
+  <path d="M18 20 L62 20 L70 28 L10 28 Z" fill="url(#g3)"></path>
+  <path d="M20 22 L58 22 L64 27 L14 27 Z" fill="rgba(255,255,200,0.3)"></path>
+  <text x="40" y="53" text-anchor="middle" font-size="9" font-family="Georgia,serif" fill="#9a6f10" letter-spacing="1">999.9</text>
+  <text x="40" y="63" text-anchor="middle" font-size="6" font-family="Georgia,serif" fill="#7a5005" letter-spacing="0.5">FINE GOLD</text>
+  <path d="M16 42 L64 42" stroke="rgba(255,240,150,0.4)" stroke-width="1.5" stroke-linecap="round"></path>
+</svg>

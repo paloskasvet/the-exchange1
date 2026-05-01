@@ -1,0 +1,16 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="100%" x2="100%" y2="0%"><stop offset="0%" stop-color="#004488"></stop><stop offset="100%" stop-color="#0088ff"></stop></linearGradient>
+  </defs>
+  <rect x="14" y="14" width="52" height="52" rx="6" fill="#080c14"></rect>
+  <path d="M20 40 L32 40 L32 26 L50 26" fill="none" stroke="#0055cc" stroke-width="2"></path>
+  <path d="M20 52 L28 52 L28 60 L60 60" fill="none" stroke="#0044aa" stroke-width="2"></path>
+  <path d="M60 40 L48 40 L48 54" fill="none" stroke="#0066dd" stroke-width="2"></path>
+  <path d="M40 14 L40 26" fill="none" stroke="#0044aa" stroke-width="2"></path>
+  <circle cx="32" cy="26" r="3" fill="#0088ff"></circle>
+  <circle cx="50" cy="26" r="3" fill="#0066cc"></circle>
+  <circle cx="28" cy="52" r="3" fill="#0077dd"></circle>
+  <circle cx="48" cy="54" r="3" fill="#0055bb"></circle>
+  <rect x="34" y="34" width="12" height="12" rx="2" fill="url(#g1)"></rect>
+  <text x="40" y="43" text-anchor="middle" font-size="7" font-family="Courier New,monospace" fill="white">T</text>
+</svg>

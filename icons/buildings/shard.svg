@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 162" width="36" height="107">
+  <ellipse cx="27" cy="158" rx="16" ry="3.5" fill="rgba(0,0,0,0.55)"></ellipse>
+  
+  <polygon points="6,149 48,149 44,153 10,153" fill="#1a2434"></polygon>
+  <polygon points="6,145 48,145 48,149 6,149" fill="#222e42"></polygon>
+  <polygon points="48,145 52,141 52,153 48,153" fill="#121c28"></polygon>
+  
+  <polygon points="44,145 48,141 44,8 40,12" fill="#1a3a60" opacity="0.8"></polygon>
+  
+  <polygon points="8,145 44,145 40,124 12,124" fill="#1e4268"></polygon>
+  
+  <polygon points="10,143 18,143 16,124 8,126" fill="rgba(120,200,255,0.10)"></polygon>
+  <polygon points="22,143 32,143 30,124 20,126" fill="rgba(100,180,255,0.07)"></polygon>
+  
+  <polygon points="12,124 40,124 36,102 16,102" fill="#234e78"></polygon>
+  <polygon points="14,122 22,122 20,102 12,104" fill="rgba(120,200,255,0.09)"></polygon>
+  <polygon points="28,122 36,122 34,102 26,104" fill="rgba(100,180,255,0.07)"></polygon>
+  
+  <polygon points="16,102 36,102 32,80 20,80" fill="#285888"></polygon>
+  <polygon points="18,100 26,100 24,80 16,82" fill="rgba(130,210,255,0.09)"></polygon>
+  
+  <polygon points="12,84 40,84 44,80 16,80" fill="#3a6090"></polygon>
+  <rect x="12" y="80" width="30" height="4" fill="rgba(180,230,255,0.35)"></rect>
+  <ellipse cx="27" cy="82" rx="18" ry="2" fill="rgba(100,180,255,0.15)"></ellipse>
+  
+  <polygon points="20,80 32,80 28,58 24,58" fill="#2e62a0"></polygon>
+  <polygon points="22,78 28,78 26,58 20,60" fill="rgba(140,220,255,0.10)"></polygon>
+  
+  <polygon points="24,58 28,58 26,32 24,32" fill="#3470b0"></polygon>
+  
+  <polygon points="24,32 28,32 27,6" fill="#4488cc"></polygon>
+  <polygon points="28,32 30,30 27,6" fill="#3070a0"></polygon>
+  
+  <line x1="8" y1="145" x2="27" y2="6" stroke="rgba(160,230,255,0.20)" stroke-width="0.8"></line>
+  <line x1="20" y1="145" x2="27" y2="6" stroke="rgba(160,230,255,0.12)" stroke-width="0.6"></line>
+  
+  <circle cx="27" cy="6" r="3" fill="rgba(160,220,255,0.7)"></circle>
+  <circle cx="27" cy="6" r="7" fill="rgba(100,180,255,0.18)"></circle>
+  
+  <circle cx="13" cy="82" r="1.2" fill="rgba(255,220,120,0.8)"></circle>
+  <circle cx="41" cy="82" r="1.2" fill="rgba(255,220,120,0.8)"></circle>
+</svg>

@@ -1,0 +1,53 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="The Exchange"
+config/description="Global Markets Manipulation Simulator"
+run/main_scene="res://scenes/MainMenu.tscn"
+config/features=PackedStringArray("4.2", "GL Compatibility")
+
+[autoload]
+
+LocaleSystem="*res://LocaleSystem.gd"
+GameState="*res://scripts/GameState.gd"
+MarketEngine="*res://scripts/MarketEngine.gd"
+NewsSystem="*res://scripts/NewsSystem.gd"
+Portfolio="*res://scripts/Portfolio.gd"
+ContactsSystem="*res://scripts/ContactsSystem.gd"
+OfficeSystem="*res://scripts/OfficeSystem.gd"
+MusicSystem="*res://scripts/MusicSystem.gd"
+SaveSystem="*res://scripts/SaveSystem.gd"
+WealthLeaderboard="*res://scripts/WealthLeaderboard.gd"
+SpeculatorSystem="*res://scripts/SpeculatorSystem.gd"
+CountrySystem="*res://scripts/CountrySystem.gd"
+CouncilSystem="*res://scripts/CouncilSystem.gd"
+NewspaperSystem="*res://scripts/NewspaperSystem.gd"
+PhoneCallSystem="*res://scripts/PhoneCallSystem.gd"
+EventScheduler="*res://scripts/EventScheduler.gd"
+CountryShapes="*res://scripts/CountryShapes.gd"
+IconLoader="*res://icons/IconLoader.gd"
+BuildingSystem="*res://icons/buildings/BuildingSystem.gd"
+LuxurySystem="*res://scripts/LuxurySystem.gd"
+ShareholdingSystem="*res://scripts/ShareholdingSystem.gd"
+TechSystem="*res://scripts/TechSystem.gd"
+AchievementSystem="*res://scripts/AchievementSystem.gd"
+MegaProjectSystem="*res://scripts/MegaProjectSystem.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"

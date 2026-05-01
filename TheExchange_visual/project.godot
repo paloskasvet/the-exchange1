@@ -1,0 +1,24 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+config/name="The Exchange"
+config/description="Global Markets Manipulation Simulator"
+run/main_scene="res://scenes/MainMenu.tscn"
+config/features=PackedStringArray("4.2", "GL Compatibility")
+
+[autoload]
+GameState="*res://scripts/GameState.gd"
+MarketEngine="*res://scripts/MarketEngine.gd"
+NewsSystem="*res://scripts/NewsSystem.gd"
+Portfolio="*res://scripts/Portfolio.gd"
+ContactsSystem="*res://scripts/ContactsSystem.gd"
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/size/resizable=true
+window/stretch/mode="canvas_items"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"

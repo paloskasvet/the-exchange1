@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 68 174" width="44" height="112">
+  <ellipse cx="34" cy="170" rx="22" ry="4" fill="rgba(0,0,0,0.55)"></ellipse>
+  
+  <polygon points="10,161 58,161 54,165 14,165" fill="#1a2030"></polygon>
+  <polygon points="10,157 58,157 58,161 10,161" fill="#242a38"></polygon>
+  <polygon points="58,157 62,153 62,165 58,161" fill="#12181e"></polygon>
+  
+  <polygon points="10,157 22,157 28,110 22,108" fill="#223248"></polygon>
+  <polygon points="22,157 24,154 30,108 28,110" fill="#1a2838"></polygon>
+  
+  <polygon points="46,157 58,157 48,110 42,108" fill="#223248"></polygon>
+  <polygon points="56,154 58,157 48,110 46,112" fill="#1a2838"></polygon>
+  
+  <line x1="20" y1="140" x2="48" y2="140" stroke="#2a3a50" stroke-width="2.5"></line>
+  <line x1="22" y1="125" x2="46" y2="125" stroke="#2a3a50" stroke-width="2"></line>
+  
+  <polygon points="24,110 44,110 42,80 26,80" fill="#2a3a58"></polygon>
+  <polygon points="44,110 48,106 46,76 42,80" fill="#1e2a44"></polygon>
+  <polygon points="24,110 44,110 48,106 28,106" fill="#3a4a68"></polygon>
+  
+  <polygon points="16,84 52,84 56,80 20,80" fill="#2e4c7a"></polygon>
+  <polygon points="20,80 52,80 52,84 20,84" fill="#3a5a8a"></polygon>
+  <polygon points="52,80 56,76 56,84 52,84" fill="#1e3460"></polygon>
+  <rect x="20" y="80" width="32" height="4" fill="rgba(160,210,255,0.35)"></rect>
+  <ellipse cx="36" cy="82" rx="20" ry="2.5" fill="rgba(100,170,255,0.18)"></ellipse>
+  
+  <circle cx="18" cy="82" r="1.5" fill="rgba(80,160,255,0.9)"></circle>
+  <circle cx="54" cy="82" r="1.5" fill="rgba(80,160,255,0.9)"></circle>
+  
+  <polygon points="26,80 42,80 40,52 28,52" fill="#2a3a58"></polygon>
+  <polygon points="42,80 46,76 44,48 40,52" fill="#1e2a44"></polygon>
+  
+  <polygon points="22,56 46,56 50,52 26,52" fill="#2e4c7a"></polygon>
+  <polygon points="26,52 46,52 46,56 26,56" fill="#3a5a8a"></polygon>
+  <polygon points="46,52 50,48 50,56 46,56" fill="#1e3460"></polygon>
+  <rect x="26" y="52" width="20" height="4" fill="rgba(160,210,255,0.35)"></rect>
+  <ellipse cx="36" cy="54" rx="13" ry="2" fill="rgba(100,170,255,0.18)"></ellipse>
+  <circle cx="24" cy="54" r="1.5" fill="rgba(80,160,255,0.9)"></circle>
+  <circle cx="48" cy="54" r="1.5" fill="rgba(80,160,255,0.9)"></circle>
+  
+  <polygon points="30,52 38,52 36,24 32,24" fill="#2a3a58"></polygon>
+  <polygon points="38,52 42,48 40,20 36,24" fill="#1e2a44"></polygon>
+  
+  <rect x="33" y="4" width="3.5" height="22" fill="#1e2c44"></rect>
+  <rect x="33.5" y="2" width="2.5" height="6" fill="#2a3c58"></rect>
+  
+  <rect x="29" y="16" width="10" height="2" fill="#3a5070" rx="1"></rect>
+  <rect x="30" y="26" width="8" height="1.5" fill="#3a5070" rx="1"></rect>
+  
+  <circle cx="34.5" cy="3" r="2" fill="#ff4400" opacity="0.95"></circle>
+  <circle cx="34.5" cy="3" r="6" fill="rgba(255,80,0,0.18)"></circle>
+  
+  <ellipse cx="34" cy="158" rx="30" ry="6" fill="rgba(50,90,180,0.08)"></ellipse>
+  
+  <line x1="14" y1="148" x2="22" y2="130" stroke="rgba(50,80,130,0.6)" stroke-width="1"></line>
+  <line x1="14" y1="136" x2="22" y2="118" stroke="rgba(50,80,130,0.6)" stroke-width="1"></line>
+  <line x1="46" y1="148" x2="54" y2="130" stroke="rgba(50,80,130,0.6)" stroke-width="1"></line>
+  <line x1="46" y1="136" x2="54" y2="118" stroke="rgba(50,80,130,0.6)" stroke-width="1"></line>
+</svg>
